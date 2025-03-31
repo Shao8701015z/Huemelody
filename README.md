@@ -1,7 +1,7 @@
 # Huemelody: An Interactive Device for Children Combining Colors and Music
 
 <div align="center">
-  <img src="assets/images/huemelody_main.png" alt="Huemelody Device" width="400"/>
+  <img src="assets/images/huemelody_main.png" alt="Huemelody Device" width="800"/>
   <p><i>Huemelody — An interactive learning device that transforms colors into musical melodies</i></p>
 </div>
 
@@ -10,7 +10,7 @@
 Huemelody is a heptagonal interactive device that transforms colors into musical melodies, enhancing children's multi-sensory experience through color-to-music conversion. The device offers two interaction modes, allowing users to experience how colors from artworks, environments, and creative combinations can be converted into unique musical melodies using AI technology and color sensing.
 
 <div align="center">
-  <img src="assets/images/artwork_sensing.jpg" alt="Huemelody sensing artwork cards" width="500"/>
+  <img src="assets/images/artwork_sensing.jpg" alt="Huemelody sensing artwork cards" width="600"/>
   <p><i>Figure 1: Interactive device Huemelody sensing artwork cards.</i></p>
 </div>
 
