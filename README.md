@@ -9,6 +9,11 @@
 
 Huemelody is a heptagonal interactive device that transforms colors into musical melodies, enhancing children's multi-sensory experience through color-to-music conversion. The device offers two interaction modes, allowing users to experience how colors from artworks, environments, and creative combinations can be converted into unique musical melodies using AI technology and color sensing.
 
+<div align="center">
+  <img src="assets/images/artwork_sensing.jpg" alt="Huemelody sensing artwork cards" width="500"/>
+  <p><i>Figure 1: Interactive device Huemelody sensing artwork cards.</i></p>
+</div>
+
 Through hands-on interaction with Huemelody, users can explore the potential relationships between colors and sounds, fostering creativity, environmental awareness, and multi-sensory learning in children, providing enriching experiences in both individual and collaborative environments.
 
 [Watch Huemelody in action demonstration video](https://www.youtube.com/watch?v=vpqVvR3sLIw&list=FLbVBZ3DhDdU9ShBIe6tOjWA)
@@ -21,6 +26,12 @@ Through hands-on interaction with Huemelody, users can explore the potential rel
 - **Color-to-Music Mapping**: Creates musical melodies based on HSV color characteristics (hue, saturation, brightness)
 - **Integration of Art and Technology**: Combines art appreciation with music creation, promoting STEAM education
 
+<div align="center">
+  <img src="assets/images/field_testing1.jpg" alt="Children field testing" width="233"/>
+  <img src="assets/images/field_testing2.jpg" alt="Children field testing" width="251"/>
+  <p><i>Figure 2, 3: The children were listening to the colors of music.</i></p>
+</div>
+
 ## 🔧 Technical Implementation
 
 Huemelody creates a seamless color-to-sound experience by combining sensing technology with algorithmic composition:
@@ -32,6 +43,43 @@ Huemelody creates a seamless color-to-sound experience by combining sensing tech
    - **Saturation**: Influences rhythmic complexity and note density
    - **Value (Brightness)**: Controls pitch range and melodic contour
 
+<div align="center">
+  <img src="assets/images/color_to_music_process.png" alt="Color to Music Process" width="600"/>
+  <p><i>Figure 6: Interactive device internal process.</i></p>
+</div>
+
+### HSV Color Model to Music Mapping
+
+The HSV color model generates music through three components:
+
+**Hue** determines the instrument and mode:
+- Red and Orange Hues (0°-60°): Strings/percussion, major modes, bright and majestic
+- Yellow and Green Hues (60°-180°): Woodwinds, pentatonic scales, warm and smooth
+- Blue and Purple Hues (180°-360°): Brass, minor modes, calm and melancholic
+
+**Saturation** affects rhythmic complexity and note density:
+- High Saturation: Dense notes, complex rhythms, fast-paced/jazz
+- Low Saturation: Sparse notes, simple rhythms, lyrical/background music
+
+**Value** impacts pitch range and melody contour:
+- High Value (Bright): High pitch, ascending melodies, energetic/joyful
+- Low Value (Dark): Low pitch, descending melodies, calm/mysterious
+
+## 📐 Physical Design
+
+Huemelody adopts a heptagonal structure, symbolizing Newton's theory of seven primary colors. The device dimensions (46mm height, 68mm diameter) are suitable for single-handed operation by children, with a color sensor located at the bottom.
+
+<div align="center">
+  <img src="assets/images/device_before.png" alt="Device before sensing" width="205"/>
+  <img src="assets/images/device_after.png" alt="Device after sensing" width="211"/>
+  <p><i>Figure 7, 8: The effects of an interactive device before and after sensing.</i></p>
+</div>
+
+<div align="center">
+  <img src="assets/images/sensor_location.png" alt="Sensor location" width="205"/>
+  <p><i>Figure 9: Sensor location of the device.</i></p>
+</div>
+
 ## 🎨 Interaction Modes
 
 Huemelody offers two primary interaction modes (toggled by long-pressing the top knob):
@@ -40,9 +88,21 @@ Huemelody offers two primary interaction modes (toggled by long-pressing the top
 
 Displays and plays sounds for individual colors, and provides special sound effects for color families based on children's associations (e.g., alarm sounds for reds, dolphin sounds for blues). These special effects are triggered when five different colors from the same color family are consecutively detected.
 
+<div align="center">
+  <img src="assets/images/color_cards1.png" alt="Basic Color Cards" width="240"/>
+  <img src="assets/images/color_cards2.png" alt="Basic Color Cards" width="235"/>
+  <p><i>Figure 10, 11: Basic color scheme cards.</i></p>
+</div>
+
 ### 2. Art Learning Mode
 
 Collects five key colors from artwork and automatically plays the unique musical melody of that artwork, enhancing the art appreciation experience.
+
+<div align="center">
+  <img src="assets/images/artwork_cards1.png" alt="Artwork Cards" width="230"/>
+  <img src="assets/images/artwork_cards2.png" alt="Artwork Cards" width="230"/>
+  <p><i>Figure 12, 13: Artwork cards introduction in Mandarin.</i></p>
+</div>
 
 ## 💡 Use Cases
 
@@ -50,10 +110,6 @@ Huemelody has been field-tested in different environments, creating engaging mul
 
 - **Classroom Setting**: Children were fascinated by discovering what artworks "sound like," eagerly scanning Munch's paintings and competing to find the key colors that trigger the complete musical piece
 - **Outdoor Setting**: The device transformed farm items into musical instruments, with children comparing the sounds of flowers, fruits, and natural materials
-
-## 📐 Physical Design
-
-Huemelody adopts a heptagonal structure, symbolizing Newton's theory of seven primary colors. The device dimensions (46mm height, 68mm diameter) are suitable for single-handed operation by children, with a color sensor located at the bottom.
 
 ## 🔌 Hardware Configuration
 
