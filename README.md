@@ -188,5 +188,4 @@ Detailed wiring diagrams can be found in the `hardware` folder.
 
 <div align="center">
   <p>© 2025 Huemelody Team. National Taipei University of Business.</p>
-  <p>IDC 2025: Interaction Design and Children Conference</p>
 </div>
