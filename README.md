@@ -16,7 +16,7 @@ Huemelody is a heptagonal interactive device that transforms colors into musical
 
 Through hands-on interaction with Huemelody, users can explore the potential relationships between colors and sounds, fostering creativity, environmental awareness, and multi-sensory learning in children, providing enriching experiences in both individual and collaborative environments.
 
-[Watch Huemelody in action demonstration video](https://www.youtube.com/watch?v=vpqVvR3sLIw&list=FLbVBZ3DhDdU9ShBIe6tOjWA)
+[Watch Huemelody in action demonstration video](https://www.youtube.com/watch?v=GMl0PmqDHKo)
 
 ## ✨ Features and Benefits
 
