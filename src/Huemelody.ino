@@ -1,10 +1,17 @@
 /*
- * ColorSense: Interactive Color Learning Device
- * ACM IDC 2025 Demo Submission
- * 
  * This code implements a color recognition device with two modes:
  * 1. Color Recognition Mode: Identifies colors and provides audio feedback
  * 2. Painter Collection Mode: Gamifies color learning through painter palettes
+
+ *Required Hardware
+  1. ESP32s3zero development board
+  2. TCS34725 RGB color sensor
+  3. WS2812B RGB LED ring (12 LEDs)
+  4. Rotary encoder (EC11 type)
+  5. MAX98357A I2S audio amplifier
+  6. MicroSD card module
+  7. Small speaker
+  8. Lithium battery and charging circuit
  */
 
 #include <Wire.h>
