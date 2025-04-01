@@ -113,7 +113,7 @@ Huemelody has been field-tested in different environments, creating engaging mul
 
 ## 🔌 Hardware Configuration
 
-- **Microcontroller**: ESP32 (supporting WiFi and Bluetooth connectivity)
+- **Microcontroller**: ESP32s3zero (supporting WiFi and Bluetooth connectivity)
 - **Color Sensor**: TCS34725 RGB color sensor
 - **LED Display**: 12 addressable RGB LEDs (WS2812B)
 - **Audio Output**: I2S digital audio
@@ -123,7 +123,7 @@ Huemelody has been field-tested in different environments, creating engaging mul
 ## 🛠️ Setup and Operation
 
 ### Required Hardware
-- ESP32 development board
+- ESP32s3zero development board
 - TCS34725 RGB color sensor
 - WS2812B RGB LED ring (12 LEDs)
 - Rotary encoder (EC11 type)
@@ -136,13 +136,13 @@ Huemelody has been field-tested in different environments, creating engaging mul
 Detailed wiring diagrams can be found in the `hardware` folder.
 
 ### Software Installation
-1. Install Arduino IDE and ESP32 board support
+1. Install Arduino IDE and ESP32s3zero board support
 2. Install required libraries:
    - Adafruit_TCS34725
    - FastLED
-   - ESP32-audioI2S
+   - ESP32s3zero-audioI2S
    - SD
-3. Upload `src/Huemelody.ino` to ESP32
+3. Upload `src/Huemelody.ino` to ESP32s3zero
 
 ### Operation Instructions
 - **Short press button**: Start/stop color detection
