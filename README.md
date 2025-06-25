@@ -1,9 +1,5 @@
 # Huemelody: An Interactive Device for Children Combining Colors and Music
 
-<div align="center">
-  <img src="assets/images/huemelody_main.png" alt="Huemelody Device" width="800"/>
-  <p><i>Huemelody — An interactive learning device that transforms colors into musical melodies</i></p>
-</div>
 
 ## 🌈 Project Overview
 
@@ -68,17 +64,6 @@ The HSV color model generates music through three components:
 ## 📐 Physical Design
 
 Huemelody adopts a heptagonal structure, symbolizing Newton's theory of seven primary colors. The device dimensions (46mm height, 68mm diameter) are suitable for single-handed operation by children, with a color sensor located at the bottom.
-
-<div align="center">
-  <img src="assets/images/device_before.png" alt="Device before sensing" width="205"/>
-  <img src="assets/images/device_after.png" alt="Device after sensing" width="211"/>
-  <p><i>Figure 7, 8: The effects of an interactive device before and after sensing.</i></p>
-</div>
-
-<div align="center">
-  <img src="assets/images/sensor_location.png" alt="Sensor location" width="205"/>
-  <p><i>Figure 9: Sensor location of the device.</i></p>
-</div>
 
 ## 🎨 Interaction Modes
 
