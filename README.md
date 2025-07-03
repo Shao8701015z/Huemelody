@@ -162,12 +162,9 @@ Detailed wiring diagrams can be found in the `hardware` folder.
   - Department of Creative Technology and Product Design, National Taipei University of Business
   - Jasica920812@gmail.com
 
-## 📚 References
+## 📚 Publication
 
-1. Helen Walters. 2013. The sound of color: Neil Harbisson's talk visualized. TED (July 2013). 
-2. Hsien-Sheng Lien. 2015. Music and color: Messiaen and the spectral school's perspective on color and sound. Journal of Music Research 22 (2015), 67-106.
-3. Howard Gardner and Thomas Hatch. 1989. Educational implications of the theory of multiple intelligences. Educational Researcher 18, 8 (1989), 4-10. 
-4. Brenda Hanna-Pladdy and Alicia MacKay. 2011. The relation between instrumental musical activity and cognitive aging. Neuropsychology 25, 3 (2011), 378-386.
+Jie-Yu Ching, Shao-Cheng Chen, Chenwei Chiang, and Yi-Qiao Wang. 2025. Huemelody: An interactive device for children combining colors and music. Proceedings of the 24th Interaction Design and Children. Association for Computing Machinery, New York, NY, USA, 757–761. https://doi.org/10.1145/3713043.3731477
 
 ---
 
