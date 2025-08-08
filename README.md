@@ -166,8 +166,20 @@ Detailed wiring diagrams can be found in the `hardware` folder.
 
 Jie-Yu Ching, Shao-Cheng Chen, Chenwei Chiang, and Yi-Qiao Wang. 2025. Huemelody: An interactive device for children combining colors and music. Proceedings of the 24th Interaction Design and Children. Association for Computing Machinery, New York, NY, USA, 757–761. https://doi.org/10.1145/3713043.3731477
 
+## Reference
+https://shop.mirotek.com.tw/iot/esp32-start-33/
+https://github.com/adafruit/pianoglove
+https://github.com/helenbang/ColorPiano
+https://www.makerguides.com/interfacing-esp32-and-tcs34725-rgb-color-sensor/#RGBC_Interrupt_Threshold_Registers
+https://www.luisllamas.es/en/arduino-rgb-color-sensor-tcs34725/
+https://www.circuits-diy.com/interfacing-ws2812b-led-ring-with-esp32/
+https://github.com/pschatzmann/ESP32-A2DP
+https://sites.google.com/cies.tn.edu.tw/codingrobot/%E5%85%B6%E4%BB%96%E6%9D%B1%E6%9D%B1/esp32%E9%9F%B3%E9%A0%BB%E5%88%86%E6%9E%90%E6%9D%BF
+https://blog.csdn.net/weixin_42880082/article/details/128639016
+https://dronebotworkshop.com/esp32-i2s/
 ---
 
 <div align="center">
   <p>© 2025 Huemelody Team. National Taipei University of Business.</p>
 </div>
+
